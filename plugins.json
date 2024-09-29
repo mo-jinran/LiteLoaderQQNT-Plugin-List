@@ -254,5 +254,37 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Encrypt-Chat",
         "branch": "main"
+    },
+    {
+        "repo": "nyaruhodoo/LiteLoader-StarWand",
+        "branch": "master"
+    },
+    {
+        "repo": "bakyrd/LiteLoader-LittleHammer",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Chronocat-Api",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Chronocat-Event",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Media",
+        "branch": "master"
+    },
+    {
+        "repo": "chrononeko/LiteLoaderQQNT-Plugin-Chronocat-Engine-Crychiccat",
+        "branch": "master"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Echo-Message",
+        "branch": "main"
     }
 ]
