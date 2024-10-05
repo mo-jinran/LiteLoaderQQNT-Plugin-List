@@ -286,5 +286,17 @@
     {
         "repo": "WJZ-P/LiteLoaderQQNT-Echo-Message",
         "branch": "main"
+    },
+    {
+        "repo": "AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow",
+        "branch": "master"
+    },
+    {
+        "repo": "AliubYiero/LiteLoaderQQNT_HotkeyChangeWindow",
+        "branch": "master"
+    },
+    {
+        "repo": "WJZ-P/LiteLoaderQQNT-Change-Summary",
+        "branch": "main"
     }
 ]
